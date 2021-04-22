@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently diving deep into Application Containerization and CI/CD flows.
 - 🔭 I’m looking to collaborate on part-time, B2B contracting projects.
 - 📫 How to reach me: email me at mario.kozjak@elpheria.com.
-- ☺️ How to find more about me: [www.mariokozjak.com](https://www.mariokozjak.com).
+- ☺️ How to get to know me better: [www.mariokozjak.com](https://www.mariokozjak.com).
